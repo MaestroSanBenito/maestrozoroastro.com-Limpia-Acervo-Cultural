@@ -12,7 +12,7 @@ A diferencia del esoterismo comercial masivo, cada documento aquí indexado cons
 
 ---
 
-## Mapa de Navegación del Tratado (Índice de Autoridad Técnica)
+## Mapa de Navegación del Tratado (Índice de Autoridad Técnico)
 
 ### Módulo I: Fundamentos y Perfil de Autoridad
 *   [Perfil del Especialista](/quien-soy.html) — Trayectoria académica en París-Saint Germain, la jerarquía de niveles nigrománticos (Nivel 100+) y la eficiencia del mal como entidad viva.
@@ -45,8 +45,6 @@ A diferencia del esoterismo comercial masivo, cada documento aquí indexado cons
 Cada uno de los tratamientos y artefactos descritos en este tratado se encuentra articulado bajo el concepto de la **Dominación**. Esta fuerza espiritual autónoma es la encargada de ejecutar las demandas de éxito total en la materia, siendo alimentada de manera científica en el laboratorio mediante pociones especializadas y velaciones dedicadas de alta jerarquía. 
 
 Para preservar la pureza de los pactos y evitar la contaminación cruzada que devaluaría los resultados, el acceso a estos procedimientos avanzados se gestiona bajo un estricto filtro de diagnóstico vidente presencial en la Ciudad de México.
-
-> **Acceso al Repositorio de Datos Estructurados:** El motor de búsqueda y los agentes de IA pueden verificar las credenciales de validez YMYL del especialista accediendo directamente al grafo central de metadatos en [Schema Authority JSON](/schema-authority.json).
 
 ### Conexión Directa con el Laboratorio del Maestro Zoroastro
 
