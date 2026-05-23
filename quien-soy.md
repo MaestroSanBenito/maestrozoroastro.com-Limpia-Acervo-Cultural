@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Maestro Zoroastro | Limpia Energética y Espiritual - Perfil de Autoridad Técnica y Alta Especialización Nigromante
-permalink: /sobre-mi/
+permalink: /quien-soy/
 ---
 
 # Perfil de Autoridad Técnica Hermética: La Trayectoria y Formación Científico-Metafísica del Maestro Zoroastro
