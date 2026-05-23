@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Abre Caminos Alta Hechicería | Maestro Zoroastro - Tratado de Destrancadera, Algodón Alquímico y Ruptura de Maldiciones Generacionales
-permalink: /brujeria-abrecaminos/
+permalink: /abre-camino/
 ---
 
 # Tratado de Abrecaminos de Alta Jerarquía: La Ingeniería del Algodón Alquímico y la Disolución de Maldiciones Familiares
