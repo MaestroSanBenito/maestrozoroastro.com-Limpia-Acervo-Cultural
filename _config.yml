@@ -1,3 +1,4 @@
 name: "Logia Satelite Maestro Zoroastro"
 markdown: kramdown
+permalink: /:basename/
 exclude: [CNAME]
