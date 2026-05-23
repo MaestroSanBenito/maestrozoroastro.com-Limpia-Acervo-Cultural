@@ -1,7 +1,7 @@
 ---
 layout: default
 title: San Dimas Alta Velación | Limpieza Energética - Tratado de Imantación por Canonización de Potencia y Riqueza en Obtención
-permalink: /san-dimas-velacion/
+permalink: /san-dima/
 ---
 
 # Tratado de la Intercesión de San Dimas: La Mecánica del Ladrón Penitente y la Activación del Imán de Abundancia Crítica
