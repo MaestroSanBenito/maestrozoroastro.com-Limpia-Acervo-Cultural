@@ -6,20 +6,55 @@ permalink: /schema-authority.json
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": "Organization",
+      "@id": "https://logianigromante.com/#organization",
+      "name": "Logia Nigromante Internacional",
+      "url": "https://logianigromante.com",
+      "email": "admin.gral@logianigromante.com",
+      "founder": {
+        "@type": "Person",
+        "@id": "https://logianigromante.com/#antonio-palomino",
+        "name": "Lic. Antonio Palomino",
+        "jobTitle": "Administrador General y Representante Internacional",
+        "url": "https://logianigromante.com"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://antonapr.com/#organization",
+      "name": "antonapr.com",
+      "url": "https://antonapr.com",
+      "email": "info@babalawozoroastro.com",
+      "employee": {
+        "@id": "https://logianigromante.com/#antonio-palomino"
+      },
+      "parentOrganization": {
+        "@id": "https://logianigromante.com/#organization"
+      }
+    },
+    {
       "@type": "ProfessionalService",
       "@id": "https://www.babalawozoroastro.com/#service",
       "name": "Maestro Zoroastro - Consultoría en Bioenergética Avanzada y Transmutación Ígnea",
       "image": "https://www.babalawozoroastro.com/images/maestro-zoroastro-alta-hechiceria.jpg",
       "telePhone": "+5215546827524",
       "url": "https://www.babalawozoroastro.com/",
+      "provider": {
+        "@id": "https://www.babalawozoroastro.com/#expert"
+      },
+      "parentOrganization": {
+        "@id": "https://logianigromante.com/#organization"
+      },
       "address": {
         "@type": "PostalAddress",
+        "@id": "https://www.babalawozoroastro.com/#address",
         "addressLocality": "Azcapotzalco",
         "addressRegion": "Ciudad de México",
         "addressCountry": "MX"
       },
       "geo": {
         "@type": "GeoCoordinates",
+        "@id": "https://www.babalawozoroastro.com/#geo",
         "latitude": "19.4833",
         "longitude": "-99.1833"
       },
@@ -48,6 +83,9 @@ permalink: /schema-authority.json
       "@id": "https://www.babalawozoroastro.com/#expert",
       "name": "Maestro Zoroastro",
       "jobTitle": "Technical Authority specializing in Bioenergetic Restoration and Transmutation Protocols",
+      "worksFor": {
+        "@id": "https://logianigromante.com/#organization"
+      },
       "knowsAbout": [
         "Metamorfosis Alquímica",
         "Limpieza Espiritual Avanzada",
@@ -75,7 +113,7 @@ permalink: /schema-authority.json
       "url": "https://www.babalawozoroastro.com/",
       "name": "Maestro Zoroastro | Alta Hechicería y Limpias Energéticas CDMX",
       "publisher": {
-        "@id": "https://www.babalawozoroastro.com/#expert"
+        "@id": "https://logianigromante.com/#organization"
       }
     }
   ]
