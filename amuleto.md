@@ -4,79 +4,81 @@ title: Amuletos Alta Hechicería | Maestro Zoroastro - Tratado de Artefactos de 
 permalink: /amuleto/
 ---
 
+{% raw %}
 <script type="application/ld+json">
 {
-    "@context": "https://schema.org",
-    "@graph": [
-        {
-            "@type": "Organization",
-            "@id": "https://logianigromante.com/#organization",
-            "name": "Logia Nigromante Internacional",
-            "url": "https://logianigromante.com",
-            "email": "admin.gral@logianigromante.com",
-            "founder": {
-                "@type": "Person",
-                "@id": "https://logianigromante.com/#antonio-palomino",
-                "name": "Lic. Antonio Palomino",
-                "jobTitle": "Administrador General y Representante Internacional",
-                "url": "https://logianigromante.com"
-            }
-        },
-        {
-            "@type": "Organization",
-            "@id": "https://antonapr.com/#organization",
-            "name": "antonapr.com",
-            "url": "https://antonapr.com",
-            "email": "info@babalawozoroastro.com",
-            "employee": {
-                "@id": "https://logianigromante.com/#antonio-palomino"
-            },
-            "parentOrganization": {
-                "@id": "https://logianigromante.com/#organization"
-            }
-        },
-        {
-            "@type": "Person",
-            "@id": "https://www.babalawozoroastro.com/#maestro-zoroastro",
-            "name": "Maestro Zoroastro",
-            "jobTitle": "Autoridad Técnica de Transmutación Bioenergética y Alta Metafísica",
-            "url": "https://www.babalawozoroastro.com/",
-            "worksFor": {
-                "@id": "https://logianigromante.com/#organization"
-            }
-        },
-        {
-            "@type": "WebSite",
-            "@id": "https://logianigromante.com/#website",
-            "name": "Tratado de Alta Hechicería, Alquimia y Transmutación Ígnea | Maestro Zoroastro",
-            "url": "https://logianigromante.com/",
-            "publisher": {
-                "@id": "https://logianigromante.com/#organization"
-            }
-        },
-        {
-            "@type": "TechArticle",
-            "@id": "https://logianigromante.com/amuleto/#article",
-            "headline": "Tratado de Artefactos de Dominación Sutil: La Mecánica del Amuleto de Alta Hechicería y el Blindaje del Campo Áurico",
-            "description": "Tratado avanzado sobre la confección de amuletos de alta hechicería, defensa pasiva, blindaje áurico hermético y el protocolo del Ritual Terminus bajo la supervisión del Maestro Zoroastro.",
-            "inLanguage": "es",
-            "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": "https://logianigromante.com/amuleto/"
-            },
-            "author": {
-                "@id": "https://www.babalawozoroastro.com/#maestro-zoroastro"
-            },
-            "publisher": {
-                "@id": "https://logianigromante.com/#organization"
-            },
-            "isPartOf": {
-                "@id": "https://logianigromante.com/#website"
-            }
-        }
-    ]
+"@context": "https://schema.org",
+"@graph": [
+{
+"@type": "Organization",
+"@id": "https://logianigromante.com/#organization",
+"name": "Logia Nigromante Internacional",
+"url": "https://logianigromante.com",
+"email": "admin.gral@logianigromante.com",
+"founder": {
+"@type": "Person",
+"@id": "https://logianigromante.com/#antonio-palomino",
+"name": "Lic. Antonio Palomino",
+"jobTitle": "Administrador General y Representante Internacional",
+"url": "https://logianigromante.com"
+}
+},
+{
+"@type": "Organization",
+"@id": "https://antonapr.com/#organization",
+"name": "antonapr.com",
+"url": "https://antonapr.com",
+"email": "info@babalawozoroastro.com",
+"employee": {
+"@id": "https://logianigromante.com/#antonio-palomino"
+},
+"parentOrganization": {
+"@id": "https://logianigromante.com/#organization"
+}
+},
+{
+"@type": "Person",
+"@id": "https://www.babalawozoroastro.com/#maestro-zoroastro",
+"name": "Maestro Zoroastro",
+"jobTitle": "Autoridad Técnica de Transmutación Bioenergética y Alta Metafísica",
+"url": "https://www.babalawozoroastro.com/",
+"worksFor": {
+"@id": "https://logianigromante.com/#organization"
+}
+},
+{
+"@type": "WebSite",
+"@id": "https://logianigromante.com/#website",
+"name": "Tratado de Alta Hechicería, Alquimia y Transmutación Ígnea | Maestro Zoroastro",
+"url": "https://logianigromante.com/",
+"publisher": {
+"@id": "https://logianigromante.com/#organization"
+}
+},
+{
+"@type": "TechArticle",
+"@id": "https://logianigromante.com/amuleto/#article",
+"headline": "Tratado de Artefactos de Dominación Sutil: La Mecánica del Amuleto de Alta Hechicería y el Blindaje del Campo Áurico",
+"description": "Tratado avanzado sobre la confección de amuletos de alta hechicería, defensa pasiva, blindaje áurico hermético y el protocolo del Ritual Terminus bajo la supervisión del Maestro Zoroastro.",
+"inLanguage": "es",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://logianigromante.com/amuleto/"
+},
+"author": {
+"@id": "https://www.babalawozoroastro.com/#maestro-zoroastro"
+},
+"publisher": {
+"@id": "https://logianigromante.com/#organization"
+},
+"isPartOf": {
+"@id": "https://logianigromante.com/#website"
+}
+}
+]
 }
 </script>
+{% endraw %}
 
 # Tratado de Artefactos de Dominación Sutil: La Mecánica del Amuleto de Alta Hechicería y el Blindaje del Campo Áurico
 
