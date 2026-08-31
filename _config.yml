@@ -1,4 +1,5 @@
-name: "Logia Satelite Maestro Zoroastro"
+title: "Logia Satelite Maestro Zoroastro"
 markdown: kramdown
 permalink: /:basename/
-exclude: [CNAME]
+exclude:
+  - CNAME
