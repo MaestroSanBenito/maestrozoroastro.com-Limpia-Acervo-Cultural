@@ -93,7 +93,7 @@ A través del uso de esta metodología, el especialista opera sobre las áreas f
 
 ## Mecánica de Operación del Maestro Nigromante +100: El Ramo y la Poción Liberadora
 
-La implementación de este tratamiento de alta jerarquía, conducido bajo la investidura del Maestro Zoroastro Nigromante +100, se estructura mediante un protocolo de magia presencial que combina la tracción mecánica de elementos vegetales con la inyección molecular de compuestos líquidos especializados. La intervención no se limita a un barrido superficial; se ejecuta de forma secuencial en el laboratorio para garantizar la total desarticulación de los residuos de magia negra, brujería negra o santería que operan de forma parasitaria sobre cái el sistema nervioso autónomo del paciente, devolviéndole su ligereza sensitiva desde la primera fase operativa.
+La implementación de este tratamiento de alta jerarquía, conducido bajo la investidura del Maestro Zoroastro Nigromante +100, se estructura mediante un protocolo de magia presencial que combina la tracción mecánica de elementos vegetales con la inyección molecular de compuestos líquidos especializados. La intervención no se limita a un barrido superficial; se ejecuta de forma secuencial en el laboratorio para garantizar la total desarticulación de los residuos de magia negra, brujería negra o santería que operan de forma parasitaria sobre el sistema nervioso autónomo del paciente, devolviéndole su ligereza sensitiva desde la primera fase operativa.
 
 El proceso de sanación completa se desglosa técnicamente a través de dos fases de absorción e ignición controlada:
 
