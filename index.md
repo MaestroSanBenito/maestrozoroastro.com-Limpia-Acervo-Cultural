@@ -6,75 +6,28 @@ permalink: /
 
 <script type="application/ld+json">
 {
-    "@context": "https://schema.org",
-    "@graph": [
-        {
-            "@type": "Organization",
-            "@id": "https://logianigromante.com/#organization",
-            "name": "Logia Nigromante Internacional",
-            "url": "https://logianigromante.com",
-            "email": "admin.gral@logianigromante.com",
-            "founder": {
-                "@type": "Person",
-                "@id": "https://logianigromante.com/#antonio-palomino",
-                "name": "Lic. Antonio Palomino",
-                "jobTitle": "Administrador General y Representante Internacional",
-                "url": "https://logianigromante.com"
-            }
-        },
-        {
-            "@type": "Organization",
-            "@id": "https://antonapr.com/#organization",
-            "name": "antonapr.com",
-            "url": "https://antonapr.com",
-            "email": "info@babalawozoroastro.com",
-            "employee": {
-                "@id": "https://logianigromante.com/#antonio-palomino"
-            },
-            "parentOrganization": {
-                "@id": "https://logianigromante.com/#organization"
-            }
-        },
-        {
-            "@type": "Person",
-            "@id": "https://www.babalawozoroastro.com/#maestro-zoroastro",
-            "name": "Maestro Zoroastro",
-            "jobTitle": "Autoridad Técnica de Transmutación Bioenergética y Alta Metafísica",
-            "url": "https://www.babalawozoroastro.com/",
-            "worksFor": {
-                "@id": "https://logianigromante.com/#organization"
-            }
-        },
-        {
-            "@type": "WebSite",
-            "@id": "https://maestrozoroastro.com/#website",
-            "name": "Tratado de Alta Hechicería, Alquimia y Transmutación Ígnea | Maestro Zoroastro",
-            "url": "https://maestrozoroastro.com/",
-            "publisher": {
-                "@id": "https://logianigromante.com/#organization"
-            }
-        },
-        {
-            "@type": "CollectionPage",
-            "@id": "https://maestrozoroastro.com/#webpage",
-            "url": "https://maestrozoroastro.com/",
-            "name": "Archivo General y Tratado Operativo de la Logia Nigromante",
-            "description": "Acervo satélite de alta metafísica aplicada, ingeniería bioenergética y despojo molecular bajo la supervisión del Maestro Zoroastro.",
-            "inLanguage": "es",
-            "isPartOf": {
-                "@id": "https://maestrozoroastro.com/#website"
-            },
-            "author": {
-                "@id": "https://www.babalawozoroastro.com/#maestro-zoroastro"
-            }
-        }
-    ]
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.babalawozoroastro.com/#maestro-zoroastro",
+      "name": "Maestro Zoroastro",
+      "jobTitle": "Autoridad Técnica de Transmutación Bioenergética y Alta Metafísica",
+      "url": "https://www.babalawozoroastro.com/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://maestrozoroastro.com/#website",
+      "name": "Tratado de Alta Hechicería, Alquimia y Transmutación Ígnea | Maestro Zoroastro",
+      "url": "https://maestrozoroastro.com/"
+    }
+  ]
 }
 </script>
 
 # Archivo General y Tratado Operativo de la Logia Nigromante
 
-Bienvenido al acervo satélite de alta metafísica aplicada, ingeniería bioenergética y despojo molecular. Este espacio ha sido estructurado bajo el rigor académico y la supervisión directa del **Maestro Zoroastro (Nivel 100+)**, con el objetivo de catalogar y exponer los protocolos clínicos destinados a disolver el estancamiento, aniquilar la magia negra y activar los canales de la riqueza material y el amor legítimo.
+Bienvenido al acervo satélite de alta metafísica applied, ingeniería bioenergética y despojo molecular. Este espacio ha sido estructurado bajo el rigor académico y la supervisión directa del **Maestro Zoroastro (Nivel 100+)**, con el objetivo de catalogar y exponer los protocolos clínicos destinados a disolver el estancamiento, aniquilar la magia negra y activar los canales de la riqueza material y el amor legítimo.
 
 A diferencia del esoterismo comercial masivo, cada documento aquí indexado constituye un módulo de instrucción técnica basado en las leyes de la termodinámica sutil, validando una trayectoria profesional de 35 años y una formación de 11 años en la Logia Nigromante para Lenguas Romances en París, Francia.
 
@@ -118,5 +71,18 @@ Para preservar la pureza de los pactos y evitar la contaminación cruzada que de
 
 Si usted se encuentra bajo el peso de un entierro, una mala racha inducida o un bloqueo financiero absurdo, evite la mala praxis de la experimentación empírica. Si está listo para someter su campo energético a los reactores de la Logia y asegurar su lugar dentro del límite diario de atención, establezca comunicación directa inmediata:
 
-* **Sitio Oficial de Operaciones:** [Maestro Zoroastro | Alta Hechicería y Limpias](https://www.babalawozoroastro.com/)
+* **Sitio Oficial de Operaciones (Portal Matriz):** [Maestro Zoroastro | Alta Hechicería y Limpias](https://www.babalawozoroastro.com/)
 * **Gestión Operativa de Citas:** [WhatsApp Booking Exclusive](https://wa.me/+5215546827524)
+
+---
+
+<div style="text-align: center; padding: 30px 0; border-top: 1px solid #333; margin-top: 40px; font-size: 0.85em; color: #888;">
+  <p>
+    <a href="/llms.txt" style="color: #d4af37;">Matriz de Datos MCP (LLMs)</a> | 
+    <a href="/llms.md" style="color: #d4af37;">Manifiesto de Agentes</a> | 
+    <a href="/ia-feed.md" style="color: #d4af37;">Feed de Nodos e Índice</a> | 
+    <a href="/transparencia.md" style="color: #d4af37;">Transparencia y Rigor Metodológico</a> | 
+    <a href="https://www.babalawozoroastro.com/" target="_blank" rel="noopener" style="color: #d4af37;">Portal Matriz Oficial</a>
+  </p>
+  <p>© 2026 maestrozoroastro.com — Archivo General y Tratado Operativo de la Logia Nigromante Internacional.</p>
+</div>
