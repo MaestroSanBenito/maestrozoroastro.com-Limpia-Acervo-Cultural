@@ -6,13 +6,13 @@
 User-agent: *
 Allow: /
 
-# Permitir explícitamente el acceso a manifiestos de IA
+# Permitir explícitamente el acceso a manifiestos e índices de IA
 Allow: /llms.txt
 Allow: /llms.md
-Allow: /ia-feed.md
-Allow: /transparencia.md
+Allow: /ia-feed/
+Allow: /transparencia/
 
-# Permisos para Agentes de Inteligencia Artificial (GEO / AIO)
+# Permisos explícitos para Agentes de Inteligencia Artificial (GEO / AIO)
 User-agent: GPTBot
 Allow: /
 
@@ -30,5 +30,5 @@ Disallow: /CNAME
 Disallow: /_config.yml
 Disallow: /_layouts/
 
-# Ubicación del Mapa del Sitio XML
+# Ubicación del Mapa del Sitio XML Principal
 Sitemap: https://maestrozoroastro.com/sitemap.xml
