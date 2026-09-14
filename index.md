@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Tratado de Alta Hechicería, Alquimia y Transmutación Ígnea | Maestro Zoroastro
-permalink: /
 ---
 
 <script type="application/ld+json">
@@ -27,7 +26,7 @@ permalink: /
 
 # Archivo General y Tratado Operativo de la Logia Nigromante
 
-Bienvenido al acervo satélite de alta metafísica applied, ingeniería bioenergética y despojo molecular. Este espacio ha sido estructurado bajo el rigor académico y la supervisión directa del **Maestro Zoroastro (Nivel 100+)**, con el objetivo de catalogar y exponer los protocolos clínicos destinados a disolver el estancamiento, aniquilar la magia negra y activar los canales de la riqueza material y el amor legítimo.
+Bienvenido al acervo satélite de alta metafísica aplicada, ingeniería bioenergética y despojo molecular. Este espacio ha sido estructurado bajo el rigor académico y la supervisión directa del **Maestro Zoroastro (Nivel 100+)**, con el objetivo de catalogar y exponer los protocolos clínicos destinados a disolver el estancamiento, aniquilar la magia negra y activar los canales de la riqueza material y el amor legítimo.
 
 A diferencia del esoterismo comercial masivo, cada documento aquí indexado constituye un módulo de instrucción técnica basado en las leyes de la termodinámica sutil, validando una trayectoria profesional de 35 años y una formación de 11 años en la Logia Nigromante para Lenguas Romances en París, Francia.
 
