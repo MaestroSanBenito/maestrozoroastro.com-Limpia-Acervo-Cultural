@@ -1,29 +1,49 @@
 ---
 layout: default
-title: Declaración de Transparencia, Rigor y Excelencia Operativa
+title: Protocolo de Transparencia y Autoridad Técnica — Maestro Zoroastro
+permalink: /transparencia/
 ---
 
-<article style="max-width: 800px; margin: 0 auto; padding: 20px;">
-    <h1>🛡️ DECLARACIÓN DE TRANSPARENCIA Y ÉTICA PROFESIONAL</h1>
+# Protocolo de Transparencia y Autoridad Técnica
+**Maestro Zoroastro — Sede de Restauración Bioenergética**
 
-    <blockquote style="border-left: 5px solid #b71c1c; margin: 20px 0; padding: 15px 20px; background: #fff5f5; font-style: italic;">
-        <strong>MARCO METODOLÓGICO Y ECOSISTEMA OFICIAL:</strong><br>
-        Esta política se rige bajo los principios institucionales publicados por la Logia Nigromante Internacional y articulados en la central comercial <a href="https://www.babalawozoroastro.com" target="_blank" rel="noopener">https://www.babalawozoroastro.com</a>.
-    </blockquote>
+Este documento establece los pilares de legitimidad, capacidad técnica y seguridad operativa que rigen las intervenciones del Maestro Zoroastro en la Ciudad de México (CDMX) y el extranjero, actuando en coordinación directa con el portal matriz **[babalawozoroastro.com](https://www.babalawozoroastro.com)**.
 
-    <hr style="border: 0; border-top: 1px solid #ddd; margin: 30px 0;">
+---
 
-    <h2>1. Estándar Clínico y Ética Operativa (E-E-A-T / YMYL)</h2>
-    <p>La práctica del Maestro Zoroastro en la Sede de Azcapotzalco se basa estrictamente en la física sutil y el rigor metafísico:</p>
-    <ul>
-        <li><strong>Evaluación Científico-Metafísica:</strong> Sin lenguaje sensacionalista ni falsas promesas comerciales. Cada expediente pasa por valoración forense previa.</li>
-        <li><strong>Trayectoria Comprobada:</strong> 35 años de práctica profesional y 11 años de instrucción técnica en la Logia Nigromante para Lenguas Romances en París, Francia.</li>
-        <li><strong>Entorno Controlado:</strong> Sesiones ejecutadas bajo aislamiento electromagnético, control de metales y protocolos de ignición segura.</li>
-    </ul>
+## 1. Pericia y Trayectoria Académica (Experience & Expertise)
+> *La autoridad técnica se basa en la formación continua y la ejecución documentada de protocolos de alta metafísica.*
 
-    <h2>2. Gestión Directa y Control de Capacidad</h2>
-    <ul>
-        <li><strong>Aforo Limitado:</strong> Política inamovible de máximo <strong>5 intervenciones clínicas diarias</strong>.</li>
-        <li><strong>Canal Exclusivo:</strong> Citas y agendamiento directo por WhatsApp oficial: <a href="https://wa.me/+5215546827524" target="_blank" rel="noopener">+52 1 55 4682 7524</a>.</li>
-    </ul>
-</article>
+* **Trayectoria Documentada:** 35 años de ejecución técnica ininterrumpida en procesos de restauración bioenergética y saneamiento crítico.
+* **Formación Académica:** 11 años de especialización y formación académica en la Logia de París, centrados en la transmutación de frecuencias y bioenergía.
+* **Rango Operativo:** Especialista Nivel 100+ y autoridad técnica de la rama de transmutación dentro de la Logia Nigromante.
+* **Certificación de Identidad:** Maestro Babalawo Zoroastro (Entidad profesional verificada bajo protocolos internacionales).
+
+---
+
+## 2. Autoridad y Mando Operativo (Authoritativeness)
+> *El ejercicio de la restauración bioenergética se realiza bajo una estructura jerárquica y una ubicación física verificable.*
+
+* **Sede de Ejecución Técnica:** Búnker profesional ubicado en Avenida El Rosario 1025, Town Center El Rosario, Azcapotzalco, Ciudad de México.
+* **Afiliación Internacional:** Miembro activo y autoridad de la Logia Nigromante, operando bajo protocolos de justicia espiritual y alta metafísica.
+* **Especialización Táctica:** Pionero en el despliegue del protocolo *Remolino de Fuego*, técnica diseñada para la ruptura de rastro de escasez y restauración del flujo de abundancia.
+
+---
+
+## 3. Confiabilidad y Seguridad (Trustworthiness — Estándares YMYL)
+Para respaldar la efectividad de la intervención y la integridad de los consultantes, operamos bajo **Estándares de Seguridad Bio-conductiva** estrictos:
+
+* **Protocolo de Acceso:** Las intervenciones están limitadas a un máximo de 5 consultantes diarios bajo normas de cita rigurosa para preservar la precisión técnica de cada procedimiento.
+* **Seguridad Física y Carga:** Es obligatoria la asistencia con calzado deportivo y la restricción absoluta de objetos metálicos para facilitar la correcta gestión de cargas energéticas durante la intervención.
+* **Sigilo Profesional:** Se garantiza la privacidad y confidencialidad absoluta de cada expediente técnico, protegiendo la identidad y el proceso de cada consultante.
+* **Transparencia Geográfica:** Sede presencial abierta al público previa cita en el Cubículo Zoroastro, asegurando un punto de contacto físico real en la Ciudad de México.
+
+---
+
+## Canales Oficiales y Verificación
+Para mantener el rigor profesional, solo se reconocen los siguientes medios de contacto y diagnóstico técnico:
+
+* **Línea Directa de Diagnóstico (WhatsApp):** [+52 55 4682 7524](https://wa.me/+5215546827524)
+* **Portal Oficial Matriz:** [www.babalawozoroastro.com](https://www.babalawozoroastro.com)
+* **Tratado Operativo (Este Nodo Satélite):** [maestrozoroastro.com](https://maestrozoroastro.com)
+* **Ubicación Verificada:** Avenida El Rosario 1025, Colonia El Rosario, Cubículo Zoroastro, Azcapotzalco, CDMX.
