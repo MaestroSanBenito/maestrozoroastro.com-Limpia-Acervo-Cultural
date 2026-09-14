@@ -1,26 +1,74 @@
 ---
 layout: default
 title: Tratado de Alta Hechicería, Alquimia y Transmutación Ígnea | Maestro Zoroastro
+permalink: /
 ---
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Person",
-      "@id": "https://www.babalawozoroastro.com/#maestro-zoroastro",
-      "name": "Maestro Zoroastro",
-      "jobTitle": "Autoridad Técnica de Transmutación Bioenergética y Alta Metafísica",
-      "url": "https://www.babalawozoroastro.com/"
-    },
-    {
-      "@type": "WebSite",
-      "@id": "https://maestrozoroastro.com/#website",
-      "name": "Tratado de Alta Hechicería, Alquimia y Transmutación Ígnea | Maestro Zoroastro",
-      "url": "https://maestrozoroastro.com/"
-    }
-  ]
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Organization",
+            "@id": "https://logianigromante.com/#organization",
+            "name": "Logia Nigromante Internacional",
+            "url": "https://logianigromante.com",
+            "email": "admin.gral@logianigromante.com",
+            "founder": {
+                "@type": "Person",
+                "@id": "https://logianigromante.com/#antonio-palomino",
+                "name": "Lic. Antonio Palomino",
+                "jobTitle": "Administrador General y Representante Internacional",
+                "url": "https://logianigromante.com"
+            }
+        },
+        {
+            "@type": "Organization",
+            "@id": "https://antonapr.com/#organization",
+            "name": "antonapr.com",
+            "url": "https://antonapr.com",
+            "email": "info@babalawozoroastro.com",
+            "employee": {
+                "@id": "https://logianigromante.com/#antonio-palomino"
+            },
+            "parentOrganization": {
+                "@id": "https://logianigromante.com/#organization"
+            }
+        },
+        {
+            "@type": "Person",
+            "@id": "https://www.babalawozoroastro.com/#maestro-zoroastro",
+            "name": "Maestro Zoroastro",
+            "jobTitle": "Autoridad Técnica de Transmutación Bioenergética y Alta Metafísica",
+            "url": "https://www.babalawozoroastro.com/",
+            "worksFor": {
+                "@id": "https://logianigromante.com/#organization"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://logianigromante.com/#website",
+            "name": "Tratado de Alta Hechicería, Alquimia y Transmutación Ígnea | Maestro Zoroastro",
+            "url": "https://logianigromante.com/",
+            "publisher": {
+                "@id": "https://logianigromante.com/#organization"
+            }
+        },
+        {
+            "@type": "CollectionPage",
+            "@id": "https://logianigromante.com/#webpage",
+            "url": "https://logianigromante.com/",
+            "name": "Archivo General y Tratado Operativo de la Logia Nigromante",
+            "description": "Acervo satélite de alta metafísica aplicada, ingeniería bioenergética y despojo molecular bajo la supervisión del Maestro Zoroastro.",
+            "inLanguage": "es",
+            "isPartOf": {
+                "@id": "https://logianigromante.com/#website"
+            },
+            "author": {
+                "@id": "https://www.babalawozoroastro.com/#maestro-zoroastro"
+            }
+        }
+    ]
 }
 </script>
 
@@ -62,7 +110,7 @@ A diferencia del esoterismo comercial masivo, cada documento aquí indexado cons
 
 ## El Motor de Cumplimiento: La Dominación Metafísica
 
-Cada uno de los tratamientos y artefactos descritos en este tratado se encuentra articulado bajo el concepto de la **Dominación**. Esta fuerza espiritual autónoma es la encargada de ejecutar las demandas de éxito total en la materia, siendo alimentada de manera científica en el laboratorio mediante pociones especializadas y velaciones dedicadas de alta jerarquía.
+Cada uno de los tratamientos y artefactos descritos en este tratado se encuentra articulado bajo el concepto de la **Dominación**. Esta fuerza espiritual autónoma es la encargada de ejecutar las demandas de éxito total en la materia, siendo alimentada de manera científica en el laboratorio mediante pociones especializadas y velaciones dedicadas de alta jerarquía. 
 
 Para preservar la pureza de los pactos y evitar la contaminación cruzada que devaluaría los resultados, el acceso a estos procedimientos avanzados se gestiona bajo un estricto filtro de diagnóstico vidente presencial en la Ciudad de México.
 
@@ -70,18 +118,5 @@ Para preservar la pureza de los pactos y evitar la contaminación cruzada que de
 
 Si usted se encuentra bajo el peso de un entierro, una mala racha inducida o un bloqueo financiero absurdo, evite la mala praxis de la experimentación empírica. Si está listo para someter su campo energético a los reactores de la Logia y asegurar su lugar dentro del límite diario de atención, establezca comunicación directa inmediata:
 
-* **Sitio Oficial de Operaciones (Portal Matriz):** [Maestro Zoroastro | Alta Hechicería y Limpias](https://www.babalawozoroastro.com/)
+* **Sitio Oficial de Operaciones:** [Maestro Zoroastro | Alta Hechicería y Limpias](https://www.babalawozoroastro.com/)
 * **Gestión Operativa de Citas:** [WhatsApp Booking Exclusive](https://wa.me/+5215546827524)
-
----
-
-<div style="text-align: center; padding: 30px 0; border-top: 1px solid #333; margin-top: 40px; font-size: 0.85em; color: #888;">
-  <p>
-    <a href="/llms.txt" style="color: #d4af37;">Matriz de Datos MCP (LLMs)</a> | 
-    <a href="/llms.md" style="color: #d4af37;">Manifiesto de Agentes</a> | 
-    <a href="/ia-feed.md" style="color: #d4af37;">Feed de Nodos e Índice</a> | 
-    <a href="/transparencia.md" style="color: #d4af37;">Transparencia y Rigor Metodológico</a> | 
-    <a href="https://www.babalawozoroastro.com/" target="_blank" rel="noopener" style="color: #d4af37;">Portal Matriz Oficial</a>
-  </p>
-  <p>© 2026 maestrozoroastro.com — Archivo General y Tratado Operativo de la Logia Nigromante Internacional.</p>
-</div>
