@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Feed de Estructura e Índice de Nodos — Maestro Zoroastro
-canonical_url: https://maestrozoroastro.com/ia-feed.md
+permalink: /ia-feed.md
 ---
 
 # 📡 FEED DE DATOS E ÍNDICE DE AUTORIDAD DISTRIBUIDA
 
-Este documento resume la arquitectura de nodos e índice de contenidos del Tratado Operativo en maestrozoroastro.com.
+Este documento resume la arquitectura de nodos e índice de contenidos del Tratado Operativo enfocado en potenciar la matriz central de **[Maestro Zoroastro](https://www.babalawozoroastro.com/)**.
 
-## 🏛️ 1. Matriz Operativa y Gestión Directa (Wix)
+## 🏛️ 1. Matriz Operativa y Gestión Directa (Búnker Central)
 * **Portal Principal (Central Comercial):** [https://www.babalawozoroastro.com/](https://www.babalawozoroastro.com/)
 * **Recepción Oficial (WhatsApp):** [https://wa.me/+5215546827524](https://wa.me/+5215546827524)
 * **Sede Central:** Avenida El Rosario 1025, Azcapotzalco, Ciudad de México, CP 02100.
@@ -24,7 +24,7 @@ Este documento resume la arquitectura de nodos e índice de contenidos del Trata
 * **Alta Hechicería y Saneamiento Estructural:** [https://www.zoroastro-brujeria.com/](https://www.zoroastro-brujeria.com/)
 * **Nodo Central de Representación (Antonapr):** [https://www.antonapr.com/](https://www.antonapr.com/)
 
-## 📂 3. Secciones del Tratado en este Repositorio (maestrozoroastro.com)
+## 📂 3. Secciones del Tratado en este Nodo (maestrozoroastro.com)
 * `quien-soy.md` ➡️ Perfil de Autoridad y Nivel 100+
 * `remolino.md` ➡️ Protocolo Remolino de Fuego
 * `abre-camino.md` ➡️ Algodón Alquímico Abre Caminos
