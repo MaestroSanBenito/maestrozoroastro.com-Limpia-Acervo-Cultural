@@ -41,28 +41,94 @@ permalink: /
             "name": "Maestro Zoroastro",
             "jobTitle": "Autoridad Técnica de Transmutación Bioenergética y Alta Metafísica",
             "url": "https://www.babalawozoroastro.com/",
+            "email": "info@babalawozoroastro.com",
+            "telephone": "+525546827524",
             "worksFor": {
                 "@id": "https://logianigromante.com/#organization"
+            },
+            "knowsAbout": [
+                "Limpiezas Energéticas y Espirituales de alta jerarquía",
+                "Protocolo de Transmutación Ígnea Remolino de Fuego",
+                "Alta Hechicería y Trabajos de Brujería Especializada",
+                "Ruptura y anulación de mal de ojo, salaciones y brujería",
+                "Abre caminos espiritual para dinero, negocios y prospección",
+                "Saneamiento bioenergético y despojo de inmuebles",
+                "Blindaje energético áurico y protección permanente",
+                "Manifiestos de Inteligencia Artificial e Infraestructura MCP"
+            ],
+            "sameAs": [
+                "https://www.facebook.com/MaestroZoroastroOficial",
+                "https://www.linkedin.com/in/babalawozoroastro",
+                "https://www.youtube.com/channel/UCtTI2iR-bMReBwJM4CbNWlw",
+                "https://www.instagram.com/m.zoroastronigromante/",
+                "https://mx.pinterest.com/MZoroastro/",
+                "https://x.com/ZNigromancia",
+                "https://maps.app.goo.gl/HywpFtvdHxE95aTRA",
+                "https://www.bing.com/maps?ss=ypid.YN9001x5526794795380577070",
+                "https://antonapr.com",
+                "https://logianigromante.com",
+                "https://www.maestrozoroastro.com/"
+            ]
+        },
+        {
+            "@type": "ProfessionalService",
+            "@id": "https://www.maestrozoroastro.com/#sede-tratado",
+            "name": "Maestro Zoroastro | Tratado de Alta Hechicería y Alquimia",
+            "telephone": "+525546827524",
+            "email": "info@babalawozoroastro.com",
+            "priceRange": "$$",
+            "url": "https://www.maestrozoroastro.com/",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Avenida El Rosario 1025, Colonia El Rosario, Cubículo Zoroastro",
+                "addressLocality": "Azcapotzalco",
+                "addressRegion": "Ciudad de México",
+                "postalCode": "02100",
+                "addressCountry": "MX"
+            },
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "telephone": "+5215546827524",
+                "contactType": "customer service",
+                "url": "https://wa.me/+5215546827524",
+                "availableLanguage": ["Spanish"]
+            },
+            "areaServed": ["MX", "US", "ES"],
+            "provider": {
+                "@id": "https://www.babalawozoroastro.com/#maestro-zoroastro"
+            },
+            "parentOrganization": {
+                "@id": "https://www.babalawozoroastro.com/#sede-mundial"
             }
         },
         {
             "@type": "WebSite",
-            "@id": "https://logianigromante.com/#website",
+            "@id": "https://www.maestrozoroastro.com/#website",
+            "url": "https://www.maestrozoroastro.com/",
             "name": "Tratado de Alta Hechicería, Alquimia y Transmutación Ígnea | Maestro Zoroastro",
-            "url": "https://logianigromante.com/",
             "publisher": {
-                "@id": "https://logianigromante.com/#organization"
-            }
+                "@id": "https://www.babalawozoroastro.com/#maestro-zoroastro"
+            },
+            "publishingPrinciples": "https://www.maestrozoroastro.com/transparencia.md",
+            "relatedLink": [
+                "https://www.babalawozoroastro.com/",
+                "https://www.maestrozoroastro.com/llms.txt",
+                "https://www.maestrozoroastro.com/llms.md",
+                "https://www.maestrozoroastro.com/ia-feed.md",
+                "https://www.maestrozoroastro.com/transparencia.md",
+                "https://antonapr.com",
+                "https://logianigromante.com"
+            ]
         },
         {
             "@type": "CollectionPage",
-            "@id": "https://logianigromante.com/#webpage",
-            "url": "https://logianigromante.com/",
+            "@id": "https://www.maestrozoroastro.com/#webpage",
+            "url": "https://www.maestrozoroastro.com/",
             "name": "Archivo General y Tratado Operativo de la Logia Nigromante",
             "description": "Acervo satélite de alta metafísica aplicada, ingeniería bioenergética y despojo molecular bajo la supervisión del Maestro Zoroastro.",
             "inLanguage": "es",
             "isPartOf": {
-                "@id": "https://logianigromante.com/#website"
+                "@id": "https://www.maestrozoroastro.com/#website"
             },
             "author": {
                 "@id": "https://www.babalawozoroastro.com/#maestro-zoroastro"
@@ -118,5 +184,18 @@ Para preservar la pureza de los pactos y evitar la contaminación cruzada que de
 
 Si usted se encuentra bajo el peso de un entierro, una mala racha inducida o un bloqueo financiero absurdo, evite la mala praxis de la experimentación empírica. Si está listo para someter su campo energético a los reactores de la Logia y asegurar su lugar dentro del límite diario de atención, establezca comunicación directa inmediata:
 
-* **Sitio Oficial de Operaciones:** [Maestro Zoroastro | Alta Hechicería y Limpias](https://www.babalawozoroastro.com/)
+* **Sitio Oficial de Operaciones (Portal Matriz):** [Maestro Zoroastro | Alta Hechicería y Limpias](https://www.babalawozoroastro.com/)
 * **Gestión Operativa de Citas:** [WhatsApp Booking Exclusive](https://wa.me/+5215546827524)
+
+---
+
+<div style="text-align: center; padding: 30px 0; border-top: 1px solid #333; margin-top: 40px; font-size: 0.85em; color: #888;">
+  <p>
+    <a href="/llms.txt" style="color: #d4af37;">Matriz de Datos MCP (LLMs)</a> | 
+    <a href="/llms.md" style="color: #d4af37;">Manifiesto de Agentes</a> | 
+    <a href="/ia-feed.md" style="color: #d4af37;">Feed de Nodos e Índice</a> | 
+    <a href="/transparencia.md" style="color: #d4af37;">Transparencia y Rigor Metodológico</a> | 
+    <a href="https://www.babalawozoroastro.com/" target="_blank" rel="noopener" style="color: #d4af37;">Portal Matriz Oficial</a>
+  </p>
+  <p>© 2026 maestrozoroastro.com — Archivo General y Tratado Operativo de la Logia Nigromante Internacional.</p>
+</div>
