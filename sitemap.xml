@@ -2,86 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://maestrozoroastro.com/</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://maestrozoroastro.com/quien-soy/</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://maestrozoroastro.com/remolino/</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.90</priority>
   </url>
   <url>
     <loc>https://maestrozoroastro.com/abre-camino/</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://maestrozoroastro.com/hierbas/</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://maestrozoroastro.com/huevo/</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://maestrozoroastro.com/limpia-general/</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://maestrozoroastro.com/manos/</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://maestrozoroastro.com/sanacion/</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://maestrozoroastro.com/sanacion-cruz/</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://maestrozoroastro.com/san-dima/</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.90</priority>
   </url>
   <url>
     <loc>https://maestrozoroastro.com/velacion/</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://maestrozoroastro.com/veladora/</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://maestrozoroastro.com/videncia/</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://maestrozoroastro.com/eliminacion-alquimica/</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://maestrozoroastro.com/amuleto/</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://maestrozoroastro.com/talisman/</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://maestrozoroastro.com/llms.txt</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.90</priority>
   </url>
   <url>
     <loc>https://maestrozoroastro.com/llms.md</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.90</priority>
   </url>
   <url>
-    <loc>https://maestrozoroastro.com/ia-feed.md</loc>
+    <loc>https://maestrozoroastro.com/ia-feed/</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.90</priority>
   </url>
   <url>
-    <loc>https://maestrozoroastro.com/transparencia.md</loc>
+    <loc>https://maestrozoroastro.com/transparencia/</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.70</priority>
   </url>
 </urlset>
