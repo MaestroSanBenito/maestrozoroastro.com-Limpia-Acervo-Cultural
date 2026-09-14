@@ -1,0 +1,34 @@
+# ===================================================
+# ROBOTS.TXT — MAESTROZOROASTRO.COM
+# Arquitectura de Indexación para Búsqueda Tradicional y Motores de IA
+# ===================================================
+
+User-agent: *
+Allow: /
+
+# Permitir explícitamente el acceso a manifiestos de IA
+Allow: /llms.txt
+Allow: /llms.md
+Allow: /ia-feed.md
+Allow: /transparencia.md
+
+# Permisos para Agentes de Inteligencia Artificial (GEO / AIO)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Bloquear archivos de configuración interna del servidor/repositorio
+Disallow: /CNAME
+Disallow: /_config.yml
+Disallow: /_layouts/
+
+# Ubicación del Mapa del Sitio XML
+Sitemap: https://www.maestrozoroastro.com/sitemap.xml
