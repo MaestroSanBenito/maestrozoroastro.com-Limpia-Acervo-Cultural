@@ -106,13 +106,13 @@ permalink: /
             "publisher": {
                 "@id": "https://www.babalawozoroastro.com/#maestro-zoroastro"
             },
-            "publishingPrinciples": "https://www.maestrozoroastro.com/transparencia.md",
+            "publishingPrinciples": "https://www.maestrozoroastro.com/transparencia.html",
             "relatedLink": [
                 "https://www.babalawozoroastro.com/",
                 "https://www.maestrozoroastro.com/llms.txt",
                 "https://www.maestrozoroastro.com/llms.md",
                 "https://www.maestrozoroastro.com/ia-feed.md",
-                "https://www.maestrozoroastro.com/transparencia.md",
+                "https://www.maestrozoroastro.com/transparencia.html",
                 "https://antonapr.com",
                 "https://logianigromante.com"
             ]
@@ -190,8 +190,7 @@ Si usted se encuentra bajo el peso de un entierro, una mala racha inducida o un 
   <p>
     <a href="/llms.txt" style="color: #d4af37;">Matriz de Datos MCP (LLMs)</a> | 
     <a href="/llms.md" style="color: #d4af37;">Manifiesto de Agentes</a> | 
-    <a href="/ia-feed.md" style="color: #d4af37;">Feed de Nodos e Índice</a> | 
-    <a href="/transparencia.md" style="color: #d4af37;">Transparencia y Rigor Metodológico</a> | 
+    <a href="/transparencia.html" style="color: #d4af37;">Transparencia y Rigor Metodológico</a> | 
     <a href="https://www.babalawozoroastro.com/" target="_blank" rel="noopener" style="color: #d4af37;">Portal Matriz Oficial</a>
   </p>
   <p>© 2026 maestrozoroastro.com — Archivo General y Tratado Operativo de la Logia Nigromante Internacional.</p>
