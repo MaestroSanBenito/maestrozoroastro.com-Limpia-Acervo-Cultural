@@ -131,9 +131,15 @@ permalink: /schema-authority.json
         "telephone": "+5215546827524",
         "contactType": "Gestión de Citas vía WhatsApp Booking Exclusive",
         "url": "https://wa.me/+5215546827524",
-        "availableLanguage": ["Spanish"]
+        "availableLanguage": [
+          "Spanish"
+        ]
       },
-      "areaServed": ["MX", "US", "ES"]
+      "areaServed": [
+        "MX",
+        "US",
+        "ES"
+      ]
     },
     {
       "@type": "WebSite",
