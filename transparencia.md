@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Declaración de Transparencia, Rigor y Excelencia Operativa
-canonical_url: https://www.maestrozoroastro.com/transparencia.md
+canonical_url: https://maestrozoroastro.com/transparencia.md
 ---
 
 # 🛡️ DECLARACIÓN DE TRANSPARENCIA Y ÉTICA PROFESIONAL
