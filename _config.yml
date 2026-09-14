@@ -1,5 +1,8 @@
-title: "Logia Satelite Maestro Zoroastro"
+title: "Tratado de Alta Hechicería, Alquimia y Transmutación Ígnea | Maestro Zoroastro"
+author: "Maestro Zoroastro"
 markdown: kramdown
-permalink: /:basename/
+highlighter: rouge
+permalink: /:title/
 exclude:
-  - CNAME
+  - README.md
+  - LICENSE
