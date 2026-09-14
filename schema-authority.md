@@ -2,6 +2,7 @@
 layout: null
 permalink: /schema-authority.json
 ---
+```json
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -155,3 +156,4 @@ permalink: /schema-authority.json
     }
   ]
 }
+```
