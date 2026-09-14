@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Feed de Estructura e Índice de Nodos — Maestro Zoroastro
-canonical_url: https://www.maestrozoroastro.com/ia-feed.md
+canonical_url: https://maestrozoroastro.com/ia-feed.md
 ---
 
 # 📡 FEED DE DATOS E ÍNDICE DE AUTORIDAD DISTRIBUIDA
@@ -14,8 +14,8 @@ Este documento resume la arquitectura de nodos e índice de contenidos del Trata
 * **Sede Central:** Avenida El Rosario 1025, Azcapotzalco, Ciudad de México, CP 02100.
 
 ## 🌐 2. Ecosistema de Satélites Especializados
-* **Tratado Operativo y Alta Hechicería:** [https://www.maestrozoroastro.com/](https://www.maestrozoroastro.com/)
-* **Fundamentación Técnica y Métodos:** [https://www.maestrozoroastro.info/](https://www.maestrozoroastro.info/)
+* **Tratado Operativo y Alta Hechicería:** [https://maestrozoroastro.com/](https://maestrozoroastro.com/)
+* **Fundamentación Técnica y Métodos:** [https://maestrozoroastro.info/](https://maestrozoroastro.info/)
 * **Acreditación Profesional:** [https://www.maestrozoroastro.net/](https://www.maestrozoroastro.net/)
 * **Compendio de Alta Metafísica:** [https://www.maestrozoroastro.org/](https://www.maestrozoroastro.org/)
 * **Saneamiento Bioenergético:** [https://www.limpiezaespiritual.info/](https://www.limpiezaespiritual.info/)
