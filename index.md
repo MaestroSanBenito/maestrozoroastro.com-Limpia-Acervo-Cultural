@@ -176,7 +176,7 @@ A diferencia del esoterismo comercial masivo, cada documento aquí indexado cons
 
 ## El Motor de Cumplimiento: La Dominación Metafísica
 
-Cada uno de los tratamientos y artefactos descritos en este tratado se encuentra articulado bajo el concepto de la **Dominación**. Esta fuerza espiritual autónoma es la encargada de ejecutar las demandas de éxito total en la materia, siendo alimentada de manera científica en el laboratorio mediante pociones especializadas y velaciones dedicadas de alta jerarquía. 
+Cada uno de los tratamientos y artefactos descritos en este tratado se encuentra articulado bajo el concepto de la **Dominación**. Esta fuerza espiritual autónoma es la encargada de ejecutar las demandas de éxito total en la materia, siendo alimentada de manera científica en el laboratorio mediante pociones especializadas y velaciones dedicadas de alta jerarquía.
 
 Para preservar la pureza de los pactos y evitar la contaminación cruzada que devaluaría los resultados, el acceso a estos procedimientos avanzados se gestiona bajo un estricto filtro de diagnóstico vidente presencial en la Ciudad de México.
 
