@@ -67,17 +67,17 @@ permalink: /
                 "https://www.bing.com/maps?ss=ypid.YN9001x5526794795380577070",
                 "https://antonapr.com",
                 "https://logianigromante.com",
-                "https://www.maestrozoroastro.com/"
+                "https://maestrozoroastro.com/"
             ]
         },
         {
             "@type": "ProfessionalService",
-            "@id": "https://www.maestrozoroastro.com/#sede-tratado",
+            "@id": "https://maestrozoroastro.com/#sede-tratado",
             "name": "Maestro Zoroastro | Tratado de Alta Hechicería y Alquimia",
             "telephone": "+525546827524",
             "email": "info@babalawozoroastro.com",
             "priceRange": "$$",
-            "url": "https://www.maestrozoroastro.com/",
+            "url": "https://maestrozoroastro.com/",
             "address": {
                 "@type": "PostalAddress",
                 "streetAddress": "Avenida El Rosario 1025, Colonia El Rosario, Cubículo Zoroastro",
@@ -103,32 +103,32 @@ permalink: /
         },
         {
             "@type": "WebSite",
-            "@id": "https://www.maestrozoroastro.com/#website",
-            "url": "https://www.maestrozoroastro.com/",
+            "@id": "https://maestrozoroastro.com/#website",
+            "url": "https://maestrozoroastro.com/",
             "name": "Tratado de Alta Hechicería, Alquimia y Transmutación Ígnea | Maestro Zoroastro",
             "publisher": {
                 "@id": "https://www.babalawozoroastro.com/#maestro-zoroastro"
             },
-            "publishingPrinciples": "https://www.maestrozoroastro.com/transparencia.md",
+            "publishingPrinciples": "https://maestrozoroastro.com/transparencia.md",
             "relatedLink": [
                 "https://www.babalawozoroastro.com/",
-                "https://www.maestrozoroastro.com/llms.txt",
-                "https://www.maestrozoroastro.com/llms.md",
-                "https://www.maestrozoroastro.com/ia-feed.md",
-                "https://www.maestrozoroastro.com/transparencia.md",
+                "https://maestrozoroastro.com/llms.txt",
+                "https://maestrozoroastro.com/llms.md",
+                "https://maestrozoroastro.com/ia-feed.md",
+                "https://maestrozoroastro.com/transparencia.md",
                 "https://antonapr.com",
                 "https://logianigromante.com"
             ]
         },
         {
             "@type": "CollectionPage",
-            "@id": "https://www.maestrozoroastro.com/#webpage",
-            "url": "https://www.maestrozoroastro.com/",
+            "@id": "https://maestrozoroastro.com/#webpage",
+            "url": "https://maestrozoroastro.com/",
             "name": "Archivo General y Tratado Operativo de la Logia Nigromante",
             "description": "Acervo satélite de alta metafísica aplicada, ingeniería bioenergética y despojo molecular bajo la supervisión del Maestro Zoroastro.",
             "inLanguage": "es",
             "isPartOf": {
-                "@id": "https://www.maestrozoroastro.com/#website"
+                "@id": "https://maestrozoroastro.com/#website"
             },
             "author": {
                 "@id": "https://www.babalawozoroastro.com/#maestro-zoroastro"
